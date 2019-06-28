@@ -56,7 +56,5 @@ int main(int argc, char *argv[])
     loadDesktops(app, engine);
     loadToolBar(app, engine);
 
-
-
     return app.exec();
 }
