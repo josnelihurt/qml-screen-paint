@@ -1,0 +1,25 @@
+<RCC>
+    <qresource prefix="/">
+        <file>CanvasWindow.qml</file>
+        <file>qtquickcontrols2.conf</file>
+        <file>ButtonSimple.qml</file>
+        <file>res/pencil.svg</file>
+        <file>res/eraser.svg</file>
+        <file>res/binoculars.svg</file>
+        <file>res/save.svg</file>
+        <file>res/close.svg</file>
+        <file>CustomToolBar.qml</file>
+        <file>ToolBarWindow.qml</file>
+        <file>res/color_wheel.svg</file>
+        <file>ToolBarController.cpp</file>
+        <file>ToolBarController.h</file>
+        <file>Colorpicker.qml</file>
+        <file>content/Checkerboard.qml</file>
+        <file>content/ColorSlider.qml</file>
+        <file>content/NumberBox.qml</file>
+        <file>content/PanelBorder.qml</file>
+        <file>content/SBPicker.qml</file>
+        <file>res/paintbrush.svg</file>
+        <file>res/ruler.svg</file>
+    </qresource>
+</RCC>
